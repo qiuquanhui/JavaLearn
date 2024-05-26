@@ -19,3 +19,7 @@
 [移除元素](https://github.com/qiuquanhui/JavaLearn/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 
 [有序数组的平方](https://github.com/qiuquanhui/JavaLearn/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+
+[长度最长的子数组](https://github.com/qiuquanhui/JavaLearn/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E9%95%BF%E5%BA%A6%E6%9C%80%E9%95%BF%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
+
+[螺旋矩阵](https://github.com/qiuquanhui/JavaLearn/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md)
