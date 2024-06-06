@@ -2,6 +2,9 @@
 
 大家好，我是小辉，我是一个Java程序猿，希望我的学习笔记能够帮助到大家。
 
+## Java
+
+[Java基础面试题](https://github.com/qiuquanhui/JavaLearn/blob/master/Java/Java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 ## JUC
 
